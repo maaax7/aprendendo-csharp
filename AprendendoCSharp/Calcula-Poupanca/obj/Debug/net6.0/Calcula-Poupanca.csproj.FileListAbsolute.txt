@@ -1,0 +1,15 @@
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Calcula-Poupanca/bin/Debug/net6.0/Calcula-Poupanca
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Calcula-Poupanca/bin/Debug/net6.0/Calcula-Poupanca.deps.json
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Calcula-Poupanca/bin/Debug/net6.0/Calcula-Poupanca.runtimeconfig.json
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Calcula-Poupanca/bin/Debug/net6.0/Calcula-Poupanca.dll
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Calcula-Poupanca/bin/Debug/net6.0/Calcula-Poupanca.pdb
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Calcula-Poupanca/obj/Debug/net6.0/Calcula-Poupanca.csproj.AssemblyReference.cache
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Calcula-Poupanca/obj/Debug/net6.0/Calcula-Poupanca.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Calcula-Poupanca/obj/Debug/net6.0/Calcula-Poupanca.AssemblyInfoInputs.cache
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Calcula-Poupanca/obj/Debug/net6.0/Calcula-Poupanca.AssemblyInfo.cs
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Calcula-Poupanca/obj/Debug/net6.0/Calcula-Poupanca.csproj.CoreCompileInputs.cache
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Calcula-Poupanca/obj/Debug/net6.0/Calcula-Poupanca.dll
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Calcula-Poupanca/obj/Debug/net6.0/refint/Calcula-Poupanca.dll
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Calcula-Poupanca/obj/Debug/net6.0/Calcula-Poupanca.pdb
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Calcula-Poupanca/obj/Debug/net6.0/Calcula-Poupanca.genruntimeconfig.cache
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Calcula-Poupanca/obj/Debug/net6.0/ref/Calcula-Poupanca.dll

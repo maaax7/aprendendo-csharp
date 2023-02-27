@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Atribuicoes-de-variaveis/1.0.0": {
+        "runtime": {
+          "Atribuicoes-de-variaveis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Atribuicoes-de-variaveis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

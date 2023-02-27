@@ -1,0 +1,15 @@
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Calcula-Poupanca-2/bin/Debug/net6.0/Calcula-Poupanca-2
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Calcula-Poupanca-2/bin/Debug/net6.0/Calcula-Poupanca-2.deps.json
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Calcula-Poupanca-2/bin/Debug/net6.0/Calcula-Poupanca-2.runtimeconfig.json
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Calcula-Poupanca-2/bin/Debug/net6.0/Calcula-Poupanca-2.dll
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Calcula-Poupanca-2/bin/Debug/net6.0/Calcula-Poupanca-2.pdb
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Calcula-Poupanca-2/obj/Debug/net6.0/Calcula-Poupanca-2.csproj.AssemblyReference.cache
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Calcula-Poupanca-2/obj/Debug/net6.0/Calcula-Poupanca-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Calcula-Poupanca-2/obj/Debug/net6.0/Calcula-Poupanca-2.AssemblyInfoInputs.cache
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Calcula-Poupanca-2/obj/Debug/net6.0/Calcula-Poupanca-2.AssemblyInfo.cs
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Calcula-Poupanca-2/obj/Debug/net6.0/Calcula-Poupanca-2.csproj.CoreCompileInputs.cache
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Calcula-Poupanca-2/obj/Debug/net6.0/Calcula-Poupanca-2.dll
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Calcula-Poupanca-2/obj/Debug/net6.0/refint/Calcula-Poupanca-2.dll
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Calcula-Poupanca-2/obj/Debug/net6.0/Calcula-Poupanca-2.pdb
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Calcula-Poupanca-2/obj/Debug/net6.0/Calcula-Poupanca-2.genruntimeconfig.cache
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Calcula-Poupanca-2/obj/Debug/net6.0/ref/Calcula-Poupanca-2.dll

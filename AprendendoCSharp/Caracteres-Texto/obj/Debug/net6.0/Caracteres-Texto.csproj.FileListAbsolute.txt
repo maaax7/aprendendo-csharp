@@ -1,0 +1,15 @@
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Caracteres-Texto/bin/Debug/net6.0/Caracteres-Texto
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Caracteres-Texto/bin/Debug/net6.0/Caracteres-Texto.deps.json
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Caracteres-Texto/bin/Debug/net6.0/Caracteres-Texto.runtimeconfig.json
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Caracteres-Texto/bin/Debug/net6.0/Caracteres-Texto.dll
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Caracteres-Texto/bin/Debug/net6.0/Caracteres-Texto.pdb
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Caracteres-Texto/obj/Debug/net6.0/Caracteres-Texto.csproj.AssemblyReference.cache
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Caracteres-Texto/obj/Debug/net6.0/Caracteres-Texto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Caracteres-Texto/obj/Debug/net6.0/Caracteres-Texto.AssemblyInfoInputs.cache
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Caracteres-Texto/obj/Debug/net6.0/Caracteres-Texto.AssemblyInfo.cs
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Caracteres-Texto/obj/Debug/net6.0/Caracteres-Texto.csproj.CoreCompileInputs.cache
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Caracteres-Texto/obj/Debug/net6.0/Caracteres-Texto.dll
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Caracteres-Texto/obj/Debug/net6.0/refint/Caracteres-Texto.dll
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Caracteres-Texto/obj/Debug/net6.0/Caracteres-Texto.pdb
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Caracteres-Texto/obj/Debug/net6.0/Caracteres-Texto.genruntimeconfig.cache
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Caracteres-Texto/obj/Debug/net6.0/ref/Caracteres-Texto.dll

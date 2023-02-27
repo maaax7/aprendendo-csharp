@@ -1,0 +1,15 @@
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Criando-Variaveis-Ponto-Flutuante/obj/Debug/net6.0/Criando-Variaveis-Ponto-Flutuante.csproj.AssemblyReference.cache
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Criando-Variaveis-Ponto-Flutuante/obj/Debug/net6.0/Criando-Variaveis-Ponto-Flutuante.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Criando-Variaveis-Ponto-Flutuante/obj/Debug/net6.0/Criando-Variaveis-Ponto-Flutuante.AssemblyInfoInputs.cache
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Criando-Variaveis-Ponto-Flutuante/obj/Debug/net6.0/Criando-Variaveis-Ponto-Flutuante.AssemblyInfo.cs
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Criando-Variaveis-Ponto-Flutuante/obj/Debug/net6.0/Criando-Variaveis-Ponto-Flutuante.csproj.CoreCompileInputs.cache
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Criando-Variaveis-Ponto-Flutuante/bin/Debug/net6.0/Criando-Variaveis-Ponto-Flutuante
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Criando-Variaveis-Ponto-Flutuante/bin/Debug/net6.0/Criando-Variaveis-Ponto-Flutuante.deps.json
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Criando-Variaveis-Ponto-Flutuante/bin/Debug/net6.0/Criando-Variaveis-Ponto-Flutuante.runtimeconfig.json
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Criando-Variaveis-Ponto-Flutuante/bin/Debug/net6.0/Criando-Variaveis-Ponto-Flutuante.dll
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Criando-Variaveis-Ponto-Flutuante/bin/Debug/net6.0/Criando-Variaveis-Ponto-Flutuante.pdb
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Criando-Variaveis-Ponto-Flutuante/obj/Debug/net6.0/Criando-Variaveis-Ponto-Flutuante.dll
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Criando-Variaveis-Ponto-Flutuante/obj/Debug/net6.0/refint/Criando-Variaveis-Ponto-Flutuante.dll
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Criando-Variaveis-Ponto-Flutuante/obj/Debug/net6.0/Criando-Variaveis-Ponto-Flutuante.pdb
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Criando-Variaveis-Ponto-Flutuante/obj/Debug/net6.0/Criando-Variaveis-Ponto-Flutuante.genruntimeconfig.cache
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Criando-Variaveis-Ponto-Flutuante/obj/Debug/net6.0/ref/Criando-Variaveis-Ponto-Flutuante.dll

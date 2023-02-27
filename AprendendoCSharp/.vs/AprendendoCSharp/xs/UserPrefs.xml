@@ -1,4 +1,53 @@
-﻿<Properties StartupConfiguration="{BC4C71C0-5F72-4146-A5AB-AE7EDEFF0BFB}|Default">
+﻿<Properties StartupConfiguration="{8124A8FA-3CD2-403F-A1C6-2088B8695915}|Default">
+  <MonoDevelop.Ide.ItemProperties.Criando-Variaveis PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Calcula-Poupanca-2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Condicionais PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Criando-Variaveis-Ponto-Flutuante PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Condicionais-2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Caracteres-Texto PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Investimento-A-Longo-Prazo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Atribuicoes-de-variaveis PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Hello-World FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Calcula-Poupanca PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Fatorial PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Fatorial/Program.cs">
+    <Files>
+      <File FileName="Hello-World/Program.cs" Line="9" Column="28" />
+      <File FileName="Criando-Variaveis/Program.cs" Line="24" Column="26" />
+      <File FileName="Criando-Variaveis-Ponto-Flutuante/Program.cs" Line="9" Column="27" />
+      <File FileName="Convencoes-E-Outros-Tipos/Program.cs" Line="25" Column="2" />
+      <File FileName="Caracteres-Texto/Program.cs" Line="39" Column="1" />
+      <File FileName="Atribuicoes-de-variaveis/Program.cs" Line="16" Column="28" />
+      <File FileName="Condicionais/Program.cs" Line="35" Column="28" />
+      <File FileName="Condicionais-2/Program.cs" Line="26" Column="2" />
+      <File FileName="Escopo/Program.cs" Line="31" Column="31" />
+      <File FileName="Calcula-Poupanca/Program.cs" Line="28" Column="9" />
+      <File FileName="Calcula-Poupanca-2/Program.cs" Line="24" Column="10" />
+      <File FileName="Investimento-A-Longo-Prazo/Program.cs" Line="21" Column="11" />
+      <File FileName="Encadeando-For/Program.cs" Line="40" Column="2" />
+      <File FileName="Fatorial/Program.cs" Line="14" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AprendendoCSharp" expanded="True">
+            <Node name="Encadeando-For" expanded="True" />
+            <Node name="Fatorial" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Investimento-A-Longo-Prazo" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Hello-World PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Encadeando-For PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Escopo FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Convencoes-E-Outros-Tipos PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

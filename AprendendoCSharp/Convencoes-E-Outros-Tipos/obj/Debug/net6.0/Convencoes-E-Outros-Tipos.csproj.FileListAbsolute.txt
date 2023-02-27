@@ -1,0 +1,15 @@
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Convencoes-E-Outros-Tipos/bin/Debug/net6.0/Convencoes-E-Outros-Tipos
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Convencoes-E-Outros-Tipos/bin/Debug/net6.0/Convencoes-E-Outros-Tipos.deps.json
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Convencoes-E-Outros-Tipos/bin/Debug/net6.0/Convencoes-E-Outros-Tipos.runtimeconfig.json
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Convencoes-E-Outros-Tipos/bin/Debug/net6.0/Convencoes-E-Outros-Tipos.dll
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Convencoes-E-Outros-Tipos/bin/Debug/net6.0/Convencoes-E-Outros-Tipos.pdb
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Convencoes-E-Outros-Tipos/obj/Debug/net6.0/Convencoes-E-Outros-Tipos.csproj.AssemblyReference.cache
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Convencoes-E-Outros-Tipos/obj/Debug/net6.0/Convencoes-E-Outros-Tipos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Convencoes-E-Outros-Tipos/obj/Debug/net6.0/Convencoes-E-Outros-Tipos.AssemblyInfoInputs.cache
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Convencoes-E-Outros-Tipos/obj/Debug/net6.0/Convencoes-E-Outros-Tipos.AssemblyInfo.cs
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Convencoes-E-Outros-Tipos/obj/Debug/net6.0/Convencoes-E-Outros-Tipos.csproj.CoreCompileInputs.cache
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Convencoes-E-Outros-Tipos/obj/Debug/net6.0/Convencoes-E-Outros-Tipos.dll
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Convencoes-E-Outros-Tipos/obj/Debug/net6.0/refint/Convencoes-E-Outros-Tipos.dll
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Convencoes-E-Outros-Tipos/obj/Debug/net6.0/Convencoes-E-Outros-Tipos.pdb
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Convencoes-E-Outros-Tipos/obj/Debug/net6.0/Convencoes-E-Outros-Tipos.genruntimeconfig.cache
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Convencoes-E-Outros-Tipos/obj/Debug/net6.0/ref/Convencoes-E-Outros-Tipos.dll

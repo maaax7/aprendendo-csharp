@@ -1,0 +1,15 @@
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Atribuicoes-de-variaveis/bin/Debug/net6.0/Atribuicoes-de-variaveis
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Atribuicoes-de-variaveis/bin/Debug/net6.0/Atribuicoes-de-variaveis.deps.json
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Atribuicoes-de-variaveis/bin/Debug/net6.0/Atribuicoes-de-variaveis.runtimeconfig.json
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Atribuicoes-de-variaveis/bin/Debug/net6.0/Atribuicoes-de-variaveis.dll
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Atribuicoes-de-variaveis/bin/Debug/net6.0/Atribuicoes-de-variaveis.pdb
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Atribuicoes-de-variaveis/obj/Debug/net6.0/Atribuicoes-de-variaveis.csproj.AssemblyReference.cache
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Atribuicoes-de-variaveis/obj/Debug/net6.0/Atribuicoes-de-variaveis.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Atribuicoes-de-variaveis/obj/Debug/net6.0/Atribuicoes-de-variaveis.AssemblyInfoInputs.cache
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Atribuicoes-de-variaveis/obj/Debug/net6.0/Atribuicoes-de-variaveis.AssemblyInfo.cs
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Atribuicoes-de-variaveis/obj/Debug/net6.0/Atribuicoes-de-variaveis.csproj.CoreCompileInputs.cache
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Atribuicoes-de-variaveis/obj/Debug/net6.0/Atribuicoes-de-variaveis.dll
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Atribuicoes-de-variaveis/obj/Debug/net6.0/refint/Atribuicoes-de-variaveis.dll
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Atribuicoes-de-variaveis/obj/Debug/net6.0/Atribuicoes-de-variaveis.pdb
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Atribuicoes-de-variaveis/obj/Debug/net6.0/Atribuicoes-de-variaveis.genruntimeconfig.cache
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Atribuicoes-de-variaveis/obj/Debug/net6.0/ref/Atribuicoes-de-variaveis.dll

@@ -1,0 +1,15 @@
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Criando-Variaveis/bin/Debug/net6.0/Criando-Variaveis
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Criando-Variaveis/bin/Debug/net6.0/Criando-Variaveis.deps.json
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Criando-Variaveis/bin/Debug/net6.0/Criando-Variaveis.runtimeconfig.json
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Criando-Variaveis/bin/Debug/net6.0/Criando-Variaveis.dll
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Criando-Variaveis/bin/Debug/net6.0/Criando-Variaveis.pdb
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Criando-Variaveis/obj/Debug/net6.0/Criando-Variaveis.csproj.AssemblyReference.cache
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Criando-Variaveis/obj/Debug/net6.0/Criando-Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Criando-Variaveis/obj/Debug/net6.0/Criando-Variaveis.AssemblyInfoInputs.cache
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Criando-Variaveis/obj/Debug/net6.0/Criando-Variaveis.AssemblyInfo.cs
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Criando-Variaveis/obj/Debug/net6.0/Criando-Variaveis.csproj.CoreCompileInputs.cache
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Criando-Variaveis/obj/Debug/net6.0/Criando-Variaveis.dll
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Criando-Variaveis/obj/Debug/net6.0/refint/Criando-Variaveis.dll
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Criando-Variaveis/obj/Debug/net6.0/Criando-Variaveis.pdb
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Criando-Variaveis/obj/Debug/net6.0/Criando-Variaveis.genruntimeconfig.cache
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Criando-Variaveis/obj/Debug/net6.0/ref/Criando-Variaveis.dll

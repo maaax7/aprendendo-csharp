@@ -1,0 +1,15 @@
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Condicionais/bin/Debug/net6.0/Condicionais
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Condicionais/bin/Debug/net6.0/Condicionais.deps.json
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Condicionais/bin/Debug/net6.0/Condicionais.runtimeconfig.json
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Condicionais/bin/Debug/net6.0/Condicionais.dll
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Condicionais/bin/Debug/net6.0/Condicionais.pdb
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Condicionais/obj/Debug/net6.0/Condicionais.csproj.AssemblyReference.cache
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Condicionais/obj/Debug/net6.0/Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Condicionais/obj/Debug/net6.0/Condicionais.AssemblyInfoInputs.cache
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Condicionais/obj/Debug/net6.0/Condicionais.AssemblyInfo.cs
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Condicionais/obj/Debug/net6.0/Condicionais.csproj.CoreCompileInputs.cache
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Condicionais/obj/Debug/net6.0/Condicionais.dll
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Condicionais/obj/Debug/net6.0/refint/Condicionais.dll
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Condicionais/obj/Debug/net6.0/Condicionais.pdb
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Condicionais/obj/Debug/net6.0/Condicionais.genruntimeconfig.cache
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Condicionais/obj/Debug/net6.0/ref/Condicionais.dll

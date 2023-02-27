@@ -1,0 +1,15 @@
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Investimento-A-Longo-Prazo/obj/Debug/net6.0/Investimento-A-Longo-Prazo.csproj.AssemblyReference.cache
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Investimento-A-Longo-Prazo/obj/Debug/net6.0/Investimento-A-Longo-Prazo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Investimento-A-Longo-Prazo/obj/Debug/net6.0/Investimento-A-Longo-Prazo.AssemblyInfoInputs.cache
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Investimento-A-Longo-Prazo/obj/Debug/net6.0/Investimento-A-Longo-Prazo.AssemblyInfo.cs
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Investimento-A-Longo-Prazo/obj/Debug/net6.0/Investimento-A-Longo-Prazo.csproj.CoreCompileInputs.cache
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Investimento-A-Longo-Prazo/bin/Debug/net6.0/Investimento-A-Longo-Prazo
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Investimento-A-Longo-Prazo/bin/Debug/net6.0/Investimento-A-Longo-Prazo.deps.json
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Investimento-A-Longo-Prazo/bin/Debug/net6.0/Investimento-A-Longo-Prazo.runtimeconfig.json
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Investimento-A-Longo-Prazo/bin/Debug/net6.0/Investimento-A-Longo-Prazo.dll
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Investimento-A-Longo-Prazo/bin/Debug/net6.0/Investimento-A-Longo-Prazo.pdb
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Investimento-A-Longo-Prazo/obj/Debug/net6.0/Investimento-A-Longo-Prazo.dll
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Investimento-A-Longo-Prazo/obj/Debug/net6.0/refint/Investimento-A-Longo-Prazo.dll
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Investimento-A-Longo-Prazo/obj/Debug/net6.0/Investimento-A-Longo-Prazo.pdb
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Investimento-A-Longo-Prazo/obj/Debug/net6.0/Investimento-A-Longo-Prazo.genruntimeconfig.cache
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Investimento-A-Longo-Prazo/obj/Debug/net6.0/ref/Investimento-A-Longo-Prazo.dll

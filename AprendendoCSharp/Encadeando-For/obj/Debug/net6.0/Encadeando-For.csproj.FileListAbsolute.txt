@@ -1,0 +1,15 @@
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Encadeando-For/bin/Debug/net6.0/Encadeando-For
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Encadeando-For/bin/Debug/net6.0/Encadeando-For.deps.json
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Encadeando-For/bin/Debug/net6.0/Encadeando-For.runtimeconfig.json
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Encadeando-For/bin/Debug/net6.0/Encadeando-For.dll
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Encadeando-For/bin/Debug/net6.0/Encadeando-For.pdb
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Encadeando-For/obj/Debug/net6.0/Encadeando-For.csproj.AssemblyReference.cache
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Encadeando-For/obj/Debug/net6.0/Encadeando-For.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Encadeando-For/obj/Debug/net6.0/Encadeando-For.AssemblyInfoInputs.cache
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Encadeando-For/obj/Debug/net6.0/Encadeando-For.AssemblyInfo.cs
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Encadeando-For/obj/Debug/net6.0/Encadeando-For.csproj.CoreCompileInputs.cache
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Encadeando-For/obj/Debug/net6.0/Encadeando-For.dll
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Encadeando-For/obj/Debug/net6.0/refint/Encadeando-For.dll
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Encadeando-For/obj/Debug/net6.0/Encadeando-For.pdb
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Encadeando-For/obj/Debug/net6.0/Encadeando-For.genruntimeconfig.cache
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Encadeando-For/obj/Debug/net6.0/ref/Encadeando-For.dll

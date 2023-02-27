@@ -1,0 +1,15 @@
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Fatorial/obj/Debug/net6.0/Fatorial.csproj.AssemblyReference.cache
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Fatorial/obj/Debug/net6.0/Fatorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Fatorial/obj/Debug/net6.0/Fatorial.AssemblyInfoInputs.cache
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Fatorial/obj/Debug/net6.0/Fatorial.AssemblyInfo.cs
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Fatorial/obj/Debug/net6.0/Fatorial.csproj.CoreCompileInputs.cache
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Fatorial/bin/Debug/net6.0/Fatorial
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Fatorial/bin/Debug/net6.0/Fatorial.deps.json
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Fatorial/bin/Debug/net6.0/Fatorial.runtimeconfig.json
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Fatorial/bin/Debug/net6.0/Fatorial.dll
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Fatorial/bin/Debug/net6.0/Fatorial.pdb
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Fatorial/obj/Debug/net6.0/Fatorial.dll
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Fatorial/obj/Debug/net6.0/refint/Fatorial.dll
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Fatorial/obj/Debug/net6.0/Fatorial.pdb
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Fatorial/obj/Debug/net6.0/Fatorial.genruntimeconfig.cache
+/Users/fabio/Documents/Alura/Github/aprendendo-csharp/AprendendoCSharp/Fatorial/obj/Debug/net6.0/ref/Fatorial.dll
